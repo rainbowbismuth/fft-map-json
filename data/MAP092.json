@@ -480,13 +480,13 @@
                 "x": 6,
                 "y": 3,
                 "no_cursor": false,
-                "no_walk": true,
+                "no_walk": false,
                 "depth": 0,
-                "height": 12,
+                "height": 2,
                 "slope_type": "Flat 0",
                 "slope_type_numeric": 0,
-                "surface_type": "Stone wall",
-                "surface_type_numeric": 23,
+                "surface_type": "Stone floor",
+                "surface_type_numeric": 21,
                 "slope_height": 0
             },
             {
@@ -1543,8 +1543,8 @@
                 "height": 0,
                 "slope_type": "Flat 0",
                 "slope_type_numeric": 0,
-                "surface_type": "Natural Surface",
-                "surface_type_numeric": 0,
+                "surface_type": "Stone wall",
+                "surface_type_numeric": 23,
                 "slope_height": 0
             },
             {
@@ -2123,6 +2123,7 @@
         "Natural Surface",
         "Rug",
         "Stairs",
+        "Stone floor",
         "Stone wall"
     ]
 }
