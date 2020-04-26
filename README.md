@@ -16,6 +16,7 @@ bridge)
 - `width` - The integer width of the tile data, same as the length of `lower` and `upper`.
 - `height` - The integer height of the tile data, same as the length of each list in `lower` and `upper`
 - `surface_types` - The unique set of each surface type that appears in the map, for convenience.
+- `starting_locations` - The starting locations for each unit on this map.
 
 Each tile object has the following properties:
 
@@ -32,6 +33,12 @@ even if `slope_type` is null.
 - `surface_type_numeric` - The byte for the surface type, similar to `surface_type_numeric`.
 - `slope_height` - The height of the slope.
 
+Each starting location object has the following properties:
+
+- `x` & `y` - The coordinates of the tile this unit starts on. (**Currently missing which layer though!**)
+- `facing` - The direction the unit starts out facing, either 'North', 'East', 'South' or 'West'.
+- `team` - Either 'Player 1' or 'Player 2'
+- `unit` - Which unit on the team this starting location is for, starts at 0, goes up to 3 for 4 units total.
 
 ## Slope types
 

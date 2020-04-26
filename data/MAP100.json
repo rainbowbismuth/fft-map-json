@@ -1,5 +1,6 @@
 {
     "gns": "MAP100.GNS",
+    "num": 100,
     "lower": [
         [
             {
@@ -5923,5 +5924,63 @@
         "Stone floor",
         "Tombstone",
         "Tree"
+    ],
+    "starting_locations": [
+        {
+            "x": 5,
+            "y": 0,
+            "facing": "North",
+            "team": "Player 1",
+            "unit": 0
+        },
+        {
+            "x": 5,
+            "y": 14,
+            "facing": "South",
+            "team": "Player 2",
+            "unit": 0
+        },
+        {
+            "x": 6,
+            "y": 14,
+            "facing": "South",
+            "team": "Player 2",
+            "unit": 1
+        },
+        {
+            "x": 6,
+            "y": 0,
+            "facing": "North",
+            "team": "Player 1",
+            "unit": 1
+        },
+        {
+            "x": 9,
+            "y": 0,
+            "facing": "North",
+            "team": "Player 1",
+            "unit": 2
+        },
+        {
+            "x": 9,
+            "y": 14,
+            "facing": "South",
+            "team": "Player 2",
+            "unit": 2
+        },
+        {
+            "x": 10,
+            "y": 14,
+            "facing": "South",
+            "team": "Player 2",
+            "unit": 3
+        },
+        {
+            "x": 10,
+            "y": 0,
+            "facing": "North",
+            "team": "Player 1",
+            "unit": 3
+        }
     ]
 }

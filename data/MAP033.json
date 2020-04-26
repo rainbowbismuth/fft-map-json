@@ -1,5 +1,6 @@
 {
     "gns": "MAP033.GNS",
+    "num": 33,
     "lower": [
         [
             {
@@ -3111,5 +3112,63 @@
         "Stairs",
         "Stone floor",
         "Wooden floor"
+    ],
+    "starting_locations": [
+        {
+            "x": 0,
+            "y": 0,
+            "facing": "North",
+            "team": "Player 1",
+            "unit": 0
+        },
+        {
+            "x": 1,
+            "y": 11,
+            "facing": "West",
+            "team": "Player 2",
+            "unit": 0
+        },
+        {
+            "x": 1,
+            "y": 10,
+            "facing": "West",
+            "team": "Player 2",
+            "unit": 1
+        },
+        {
+            "x": 1,
+            "y": 0,
+            "facing": "North",
+            "team": "Player 1",
+            "unit": 1
+        },
+        {
+            "x": 2,
+            "y": 0,
+            "facing": "North",
+            "team": "Player 1",
+            "unit": 2
+        },
+        {
+            "x": 0,
+            "y": 11,
+            "facing": "West",
+            "team": "Player 2",
+            "unit": 2
+        },
+        {
+            "x": 0,
+            "y": 10,
+            "facing": "West",
+            "team": "Player 2",
+            "unit": 3
+        },
+        {
+            "x": 3,
+            "y": 0,
+            "facing": "North",
+            "team": "Player 1",
+            "unit": 3
+        }
     ]
 }

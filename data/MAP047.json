@@ -1,5 +1,6 @@
 {
     "gns": "MAP047.GNS",
+    "num": 47,
     "lower": [
         [
             {
@@ -4239,5 +4240,63 @@
         "Stairs",
         "Stone floor",
         "Wasteland"
+    ],
+    "starting_locations": [
+        {
+            "x": 3,
+            "y": 15,
+            "facing": "South",
+            "team": "Player 1",
+            "unit": 0
+        },
+        {
+            "x": 3,
+            "y": 0,
+            "facing": "North",
+            "team": "Player 2",
+            "unit": 0
+        },
+        {
+            "x": 4,
+            "y": 0,
+            "facing": "North",
+            "team": "Player 2",
+            "unit": 1
+        },
+        {
+            "x": 4,
+            "y": 15,
+            "facing": "South",
+            "team": "Player 1",
+            "unit": 1
+        },
+        {
+            "x": 5,
+            "y": 15,
+            "facing": "South",
+            "team": "Player 1",
+            "unit": 2
+        },
+        {
+            "x": 5,
+            "y": 0,
+            "facing": "North",
+            "team": "Player 2",
+            "unit": 2
+        },
+        {
+            "x": 6,
+            "y": 0,
+            "facing": "North",
+            "team": "Player 2",
+            "unit": 3
+        },
+        {
+            "x": 6,
+            "y": 15,
+            "facing": "South",
+            "team": "Player 1",
+            "unit": 3
+        }
     ]
 }

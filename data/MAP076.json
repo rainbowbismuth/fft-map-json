@@ -1,5 +1,6 @@
 {
     "gns": "MAP076.GNS",
+    "num": 76,
     "lower": [
         [
             {
@@ -4763,5 +4764,63 @@
         "Rocky cliff",
         "Sand area",
         "Tree"
+    ],
+    "starting_locations": [
+        {
+            "x": 3,
+            "y": 0,
+            "facing": "North",
+            "team": "Player 1",
+            "unit": 0
+        },
+        {
+            "x": 3,
+            "y": 17,
+            "facing": "South",
+            "team": "Player 2",
+            "unit": 0
+        },
+        {
+            "x": 4,
+            "y": 17,
+            "facing": "South",
+            "team": "Player 2",
+            "unit": 1
+        },
+        {
+            "x": 4,
+            "y": 0,
+            "facing": "North",
+            "team": "Player 1",
+            "unit": 1
+        },
+        {
+            "x": 5,
+            "y": 0,
+            "facing": "North",
+            "team": "Player 1",
+            "unit": 2
+        },
+        {
+            "x": 5,
+            "y": 17,
+            "facing": "South",
+            "team": "Player 2",
+            "unit": 2
+        },
+        {
+            "x": 6,
+            "y": 17,
+            "facing": "South",
+            "team": "Player 2",
+            "unit": 3
+        },
+        {
+            "x": 6,
+            "y": 0,
+            "facing": "North",
+            "team": "Player 1",
+            "unit": 3
+        }
     ]
 }

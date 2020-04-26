@@ -1,5 +1,6 @@
 {
     "gns": "MAP074.GNS",
+    "num": 74,
     "lower": [
         [
             {
@@ -3493,5 +3494,63 @@
         "Rocky cliff",
         "Swamp",
         "Tree"
+    ],
+    "starting_locations": [
+        {
+            "x": 0,
+            "y": 9,
+            "facing": "South",
+            "team": "Player 1",
+            "unit": 0
+        },
+        {
+            "x": 7,
+            "y": 0,
+            "facing": "North",
+            "team": "Player 2",
+            "unit": 0
+        },
+        {
+            "x": 8,
+            "y": 1,
+            "facing": "North",
+            "team": "Player 2",
+            "unit": 1
+        },
+        {
+            "x": 1,
+            "y": 9,
+            "facing": "South",
+            "team": "Player 1",
+            "unit": 1
+        },
+        {
+            "x": 2,
+            "y": 10,
+            "facing": "South",
+            "team": "Player 1",
+            "unit": 2
+        },
+        {
+            "x": 8,
+            "y": 2,
+            "facing": "North",
+            "team": "Player 2",
+            "unit": 2
+        },
+        {
+            "x": 10,
+            "y": 3,
+            "facing": "North",
+            "team": "Player 2",
+            "unit": 3
+        },
+        {
+            "x": 2,
+            "y": 11,
+            "facing": "South",
+            "team": "Player 1",
+            "unit": 3
+        }
     ]
 }

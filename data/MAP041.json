@@ -1,5 +1,6 @@
 {
     "gns": "MAP041.GNS",
+    "num": 41,
     "lower": [
         [
             {
@@ -1708,5 +1709,63 @@
         "Rug",
         "Stone wall",
         "Wooden floor"
+    ],
+    "starting_locations": [
+        {
+            "x": 5,
+            "y": 0,
+            "facing": "North",
+            "team": "Player 1",
+            "unit": 0
+        },
+        {
+            "x": 2,
+            "y": 3,
+            "facing": "West",
+            "team": "Player 2",
+            "unit": 0
+        },
+        {
+            "x": 2,
+            "y": 4,
+            "facing": "West",
+            "team": "Player 2",
+            "unit": 1
+        },
+        {
+            "x": 6,
+            "y": 0,
+            "facing": "North",
+            "team": "Player 1",
+            "unit": 1
+        },
+        {
+            "x": 7,
+            "y": 1,
+            "facing": "East",
+            "team": "Player 1",
+            "unit": 2
+        },
+        {
+            "x": 3,
+            "y": 5,
+            "facing": "South",
+            "team": "Player 2",
+            "unit": 2
+        },
+        {
+            "x": 4,
+            "y": 5,
+            "facing": "South",
+            "team": "Player 2",
+            "unit": 3
+        },
+        {
+            "x": 7,
+            "y": 2,
+            "facing": "East",
+            "team": "Player 1",
+            "unit": 3
+        }
     ]
 }

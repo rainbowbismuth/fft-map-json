@@ -1,5 +1,6 @@
 {
     "gns": "MAP088.GNS",
+    "num": 88,
     "lower": [
         [
             {
@@ -4501,5 +4502,63 @@
         "River",
         "Rocky cliff",
         "Tree"
+    ],
+    "starting_locations": [
+        {
+            "x": 0,
+            "y": 0,
+            "facing": "North",
+            "team": "Player 1",
+            "unit": 0
+        },
+        {
+            "x": 9,
+            "y": 13,
+            "facing": "East",
+            "team": "Player 2",
+            "unit": 0
+        },
+        {
+            "x": 9,
+            "y": 12,
+            "facing": "East",
+            "team": "Player 2",
+            "unit": 1
+        },
+        {
+            "x": 1,
+            "y": 0,
+            "facing": "North",
+            "team": "Player 1",
+            "unit": 1
+        },
+        {
+            "x": 2,
+            "y": 0,
+            "facing": "North",
+            "team": "Player 1",
+            "unit": 2
+        },
+        {
+            "x": 9,
+            "y": 11,
+            "facing": "East",
+            "team": "Player 2",
+            "unit": 2
+        },
+        {
+            "x": 9,
+            "y": 14,
+            "facing": "East",
+            "team": "Player 2",
+            "unit": 3
+        },
+        {
+            "x": 3,
+            "y": 0,
+            "facing": "North",
+            "team": "Player 1",
+            "unit": 3
+        }
     ]
 }

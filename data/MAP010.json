@@ -1,5 +1,6 @@
 {
     "gns": "MAP010.GNS",
+    "num": 10,
     "lower": [
         [
             {
@@ -2910,5 +2911,63 @@
         "Bridge",
         "Natural Surface",
         "Stone floor"
+    ],
+    "starting_locations": [
+        {
+            "x": 0,
+            "y": 1,
+            "facing": "North",
+            "team": "Player 1",
+            "unit": 0
+        },
+        {
+            "x": 7,
+            "y": 9,
+            "facing": "South",
+            "team": "Player 2",
+            "unit": 0
+        },
+        {
+            "x": 8,
+            "y": 9,
+            "facing": "South",
+            "team": "Player 2",
+            "unit": 1
+        },
+        {
+            "x": 1,
+            "y": 1,
+            "facing": "North",
+            "team": "Player 1",
+            "unit": 1
+        },
+        {
+            "x": 0,
+            "y": 0,
+            "facing": "North",
+            "team": "Player 1",
+            "unit": 2
+        },
+        {
+            "x": 9,
+            "y": 9,
+            "facing": "South",
+            "team": "Player 2",
+            "unit": 2
+        },
+        {
+            "x": 10,
+            "y": 9,
+            "facing": "South",
+            "team": "Player 2",
+            "unit": 3
+        },
+        {
+            "x": 1,
+            "y": 0,
+            "facing": "North",
+            "team": "Player 1",
+            "unit": 3
+        }
     ]
 }

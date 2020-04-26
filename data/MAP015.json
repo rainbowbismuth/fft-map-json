@@ -1,5 +1,6 @@
 {
     "gns": "MAP015.GNS",
+    "num": 15,
     "lower": [
         [
             {
@@ -3443,5 +3444,63 @@
         "Natural Surface",
         "Stone floor",
         "Waterway"
+    ],
+    "starting_locations": [
+        {
+            "x": 0,
+            "y": 3,
+            "facing": "North",
+            "team": "Player 1",
+            "unit": 0
+        },
+        {
+            "x": 0,
+            "y": 10,
+            "facing": "South",
+            "team": "Player 2",
+            "unit": 0
+        },
+        {
+            "x": 3,
+            "y": 10,
+            "facing": "South",
+            "team": "Player 2",
+            "unit": 1
+        },
+        {
+            "x": 3,
+            "y": 3,
+            "facing": "North",
+            "team": "Player 1",
+            "unit": 1
+        },
+        {
+            "x": 0,
+            "y": 2,
+            "facing": "North",
+            "team": "Player 1",
+            "unit": 2
+        },
+        {
+            "x": 0,
+            "y": 11,
+            "facing": "South",
+            "team": "Player 2",
+            "unit": 2
+        },
+        {
+            "x": 3,
+            "y": 11,
+            "facing": "South",
+            "team": "Player 2",
+            "unit": 3
+        },
+        {
+            "x": 3,
+            "y": 2,
+            "facing": "North",
+            "team": "Player 1",
+            "unit": 3
+        }
     ]
 }

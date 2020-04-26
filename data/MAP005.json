@@ -1,5 +1,6 @@
 {
     "gns": "MAP005.GNS",
+    "num": 5,
     "lower": [
         [
             {
@@ -3774,5 +3775,63 @@
         "Roof",
         "Stone wall",
         "Wooden floor"
+    ],
+    "starting_locations": [
+        {
+            "x": 10,
+            "y": 1,
+            "facing": "North",
+            "team": "Player 1",
+            "unit": 0
+        },
+        {
+            "x": 10,
+            "y": 9,
+            "facing": "South",
+            "team": "Player 2",
+            "unit": 0
+        },
+        {
+            "x": 8,
+            "y": 9,
+            "facing": "South",
+            "team": "Player 2",
+            "unit": 1
+        },
+        {
+            "x": 8,
+            "y": 1,
+            "facing": "North",
+            "team": "Player 1",
+            "unit": 1
+        },
+        {
+            "x": 6,
+            "y": 1,
+            "facing": "North",
+            "team": "Player 1",
+            "unit": 2
+        },
+        {
+            "x": 6,
+            "y": 9,
+            "facing": "South",
+            "team": "Player 2",
+            "unit": 2
+        },
+        {
+            "x": 4,
+            "y": 9,
+            "facing": "South",
+            "team": "Player 2",
+            "unit": 3
+        },
+        {
+            "x": 4,
+            "y": 1,
+            "facing": "North",
+            "team": "Player 1",
+            "unit": 3
+        }
     ]
 }

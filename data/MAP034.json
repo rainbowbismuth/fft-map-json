@@ -1,5 +1,6 @@
 {
     "gns": "MAP034.GNS",
+    "num": 34,
     "lower": [
         [
             {
@@ -2915,5 +2916,63 @@
         "Stone floor",
         "Stone wall",
         "Tree"
+    ],
+    "starting_locations": [
+        {
+            "x": 0,
+            "y": 0,
+            "facing": "North",
+            "team": "Player 1",
+            "unit": 0
+        },
+        {
+            "x": 10,
+            "y": 9,
+            "facing": "East",
+            "team": "Player 2",
+            "unit": 0
+        },
+        {
+            "x": 10,
+            "y": 8,
+            "facing": "East",
+            "team": "Player 2",
+            "unit": 1
+        },
+        {
+            "x": 1,
+            "y": 0,
+            "facing": "North",
+            "team": "Player 1",
+            "unit": 1
+        },
+        {
+            "x": 2,
+            "y": 0,
+            "facing": "North",
+            "team": "Player 1",
+            "unit": 2
+        },
+        {
+            "x": 10,
+            "y": 7,
+            "facing": "East",
+            "team": "Player 2",
+            "unit": 2
+        },
+        {
+            "x": 10,
+            "y": 6,
+            "facing": "East",
+            "team": "Player 2",
+            "unit": 3
+        },
+        {
+            "x": 3,
+            "y": 0,
+            "facing": "North",
+            "team": "Player 1",
+            "unit": 3
+        }
     ]
 }

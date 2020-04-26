@@ -1,5 +1,6 @@
 {
     "gns": "MAP027.GNS",
+    "num": 27,
     "lower": [
         [
             {
@@ -2653,5 +2654,63 @@
         "Snow",
         "Stone floor",
         "Wooden floor"
+    ],
+    "starting_locations": [
+        {
+            "x": 5,
+            "y": 9,
+            "facing": "South",
+            "team": "Player 1",
+            "unit": 0
+        },
+        {
+            "x": 3,
+            "y": 0,
+            "facing": "North",
+            "team": "Player 2",
+            "unit": 0
+        },
+        {
+            "x": 2,
+            "y": 0,
+            "facing": "North",
+            "team": "Player 2",
+            "unit": 1
+        },
+        {
+            "x": 6,
+            "y": 9,
+            "facing": "South",
+            "team": "Player 1",
+            "unit": 1
+        },
+        {
+            "x": 7,
+            "y": 9,
+            "facing": "South",
+            "team": "Player 1",
+            "unit": 2
+        },
+        {
+            "x": 1,
+            "y": 0,
+            "facing": "North",
+            "team": "Player 2",
+            "unit": 2
+        },
+        {
+            "x": 0,
+            "y": 0,
+            "facing": "North",
+            "team": "Player 2",
+            "unit": 3
+        },
+        {
+            "x": 8,
+            "y": 9,
+            "facing": "South",
+            "team": "Player 1",
+            "unit": 3
+        }
     ]
 }

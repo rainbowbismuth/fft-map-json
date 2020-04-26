@@ -1,5 +1,6 @@
 {
     "gns": "MAP066.GNS",
+    "num": 66,
     "lower": [
         [
             {
@@ -3106,5 +3107,63 @@
         "Grassland",
         "Natural Surface",
         "Wasteland"
+    ],
+    "starting_locations": [
+        {
+            "x": 0,
+            "y": 10,
+            "facing": "West",
+            "team": "Player 1",
+            "unit": 0
+        },
+        {
+            "x": 8,
+            "y": 10,
+            "facing": "East",
+            "team": "Player 2",
+            "unit": 0
+        },
+        {
+            "x": 8,
+            "y": 7,
+            "facing": "East",
+            "team": "Player 2",
+            "unit": 1
+        },
+        {
+            "x": 0,
+            "y": 7,
+            "facing": "West",
+            "team": "Player 1",
+            "unit": 1
+        },
+        {
+            "x": 0,
+            "y": 2,
+            "facing": "West",
+            "team": "Player 1",
+            "unit": 2
+        },
+        {
+            "x": 8,
+            "y": 2,
+            "facing": "East",
+            "team": "Player 2",
+            "unit": 2
+        },
+        {
+            "x": 7,
+            "y": 4,
+            "facing": "East",
+            "team": "Player 2",
+            "unit": 3
+        },
+        {
+            "x": 1,
+            "y": 4,
+            "facing": "West",
+            "team": "Player 1",
+            "unit": 3
+        }
     ]
 }

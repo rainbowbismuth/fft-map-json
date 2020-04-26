@@ -1,5 +1,6 @@
 {
     "gns": "MAP090.GNS",
+    "num": 90,
     "lower": [
         [
             {
@@ -3179,5 +3180,63 @@
         "Natural Surface",
         "Rocky cliff",
         "Wooden floor"
+    ],
+    "starting_locations": [
+        {
+            "x": 0,
+            "y": 0,
+            "facing": "North",
+            "team": "Player 1",
+            "unit": 0
+        },
+        {
+            "x": 9,
+            "y": 11,
+            "facing": "South",
+            "team": "Player 2",
+            "unit": 0
+        },
+        {
+            "x": 8,
+            "y": 11,
+            "facing": "South",
+            "team": "Player 2",
+            "unit": 1
+        },
+        {
+            "x": 0,
+            "y": 1,
+            "facing": "North",
+            "team": "Player 1",
+            "unit": 1
+        },
+        {
+            "x": 1,
+            "y": 0,
+            "facing": "North",
+            "team": "Player 1",
+            "unit": 2
+        },
+        {
+            "x": 9,
+            "y": 10,
+            "facing": "South",
+            "team": "Player 2",
+            "unit": 2
+        },
+        {
+            "x": 8,
+            "y": 10,
+            "facing": "South",
+            "team": "Player 2",
+            "unit": 3
+        },
+        {
+            "x": 1,
+            "y": 1,
+            "facing": "North",
+            "team": "Player 1",
+            "unit": 3
+        }
     ]
 }

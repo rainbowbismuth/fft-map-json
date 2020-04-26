@@ -1,5 +1,6 @@
 {
     "gns": "MAP071.GNS",
+    "num": 71,
     "lower": [
         [
             {
@@ -3691,5 +3692,63 @@
         "Marsh",
         "Natural Surface",
         "Water plant"
+    ],
+    "starting_locations": [
+        {
+            "x": 0,
+            "y": 2,
+            "facing": "West",
+            "team": "Player 1",
+            "unit": 0
+        },
+        {
+            "x": 13,
+            "y": 3,
+            "facing": "East",
+            "team": "Player 2",
+            "unit": 0
+        },
+        {
+            "x": 13,
+            "y": 4,
+            "facing": "East",
+            "team": "Player 2",
+            "unit": 1
+        },
+        {
+            "x": 0,
+            "y": 3,
+            "facing": "West",
+            "team": "Player 1",
+            "unit": 1
+        },
+        {
+            "x": 0,
+            "y": 6,
+            "facing": "West",
+            "team": "Player 1",
+            "unit": 2
+        },
+        {
+            "x": 13,
+            "y": 7,
+            "facing": "East",
+            "team": "Player 2",
+            "unit": 2
+        },
+        {
+            "x": 13,
+            "y": 8,
+            "facing": "East",
+            "team": "Player 2",
+            "unit": 3
+        },
+        {
+            "x": 0,
+            "y": 7,
+            "facing": "West",
+            "team": "Player 1",
+            "unit": 3
+        }
     ]
 }

@@ -1,5 +1,6 @@
 {
     "gns": "MAP019.GNS",
+    "num": 19,
     "lower": [
         [
             {
@@ -2980,5 +2981,63 @@
         "Natural Surface",
         "Stairs",
         "Stone floor"
+    ],
+    "starting_locations": [
+        {
+            "x": 3,
+            "y": 1,
+            "facing": "North",
+            "team": "Player 1",
+            "unit": 0
+        },
+        {
+            "x": 4,
+            "y": 9,
+            "facing": "South",
+            "team": "Player 2",
+            "unit": 0
+        },
+        {
+            "x": 3,
+            "y": 9,
+            "facing": "South",
+            "team": "Player 2",
+            "unit": 1
+        },
+        {
+            "x": 4,
+            "y": 1,
+            "facing": "North",
+            "team": "Player 1",
+            "unit": 1
+        },
+        {
+            "x": 3,
+            "y": 0,
+            "facing": "North",
+            "team": "Player 1",
+            "unit": 2
+        },
+        {
+            "x": 4,
+            "y": 10,
+            "facing": "South",
+            "team": "Player 2",
+            "unit": 2
+        },
+        {
+            "x": 3,
+            "y": 10,
+            "facing": "South",
+            "team": "Player 2",
+            "unit": 3
+        },
+        {
+            "x": 4,
+            "y": 0,
+            "facing": "North",
+            "team": "Player 1",
+            "unit": 3
+        }
     ]
 }

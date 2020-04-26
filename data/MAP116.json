@@ -1,5 +1,6 @@
 {
     "gns": "MAP116.GNS",
+    "num": 116,
     "lower": [
         [
             {
@@ -3199,5 +3200,63 @@
     "surface_types": [
         "Natural Surface",
         "Stone floor"
+    ],
+    "starting_locations": [
+        {
+            "x": 5,
+            "y": 9,
+            "facing": "South",
+            "team": "Player 1",
+            "unit": 0
+        },
+        {
+            "x": 8,
+            "y": 8,
+            "facing": "South",
+            "team": "Player 2",
+            "unit": 0
+        },
+        {
+            "x": 8,
+            "y": 2,
+            "facing": "East",
+            "team": "Player 2",
+            "unit": 1
+        },
+        {
+            "x": 5,
+            "y": 1,
+            "facing": "North",
+            "team": "Player 1",
+            "unit": 1
+        },
+        {
+            "x": 1,
+            "y": 5,
+            "facing": "West",
+            "team": "Player 1",
+            "unit": 2
+        },
+        {
+            "x": 2,
+            "y": 8,
+            "facing": "West",
+            "team": "Player 2",
+            "unit": 2
+        },
+        {
+            "x": 2,
+            "y": 2,
+            "facing": "North",
+            "team": "Player 2",
+            "unit": 3
+        },
+        {
+            "x": 9,
+            "y": 5,
+            "facing": "East",
+            "team": "Player 1",
+            "unit": 3
+        }
     ]
 }

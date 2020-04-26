@@ -1,5 +1,6 @@
 {
     "gns": "MAP032.GNS",
+    "num": 32,
     "lower": [
         [
             {
@@ -4237,5 +4238,63 @@
         "Roof",
         "Sea",
         "Stone floor"
+    ],
+    "starting_locations": [
+        {
+            "x": 1,
+            "y": 13,
+            "facing": "South",
+            "team": "Player 1",
+            "unit": 0
+        },
+        {
+            "x": 6,
+            "y": 2,
+            "facing": "North",
+            "team": "Player 2",
+            "unit": 0
+        },
+        {
+            "x": 7,
+            "y": 2,
+            "facing": "North",
+            "team": "Player 2",
+            "unit": 1
+        },
+        {
+            "x": 2,
+            "y": 13,
+            "facing": "South",
+            "team": "Player 1",
+            "unit": 1
+        },
+        {
+            "x": 1,
+            "y": 14,
+            "facing": "South",
+            "team": "Player 1",
+            "unit": 2
+        },
+        {
+            "x": 8,
+            "y": 2,
+            "facing": "North",
+            "team": "Player 2",
+            "unit": 2
+        },
+        {
+            "x": 9,
+            "y": 2,
+            "facing": "North",
+            "team": "Player 2",
+            "unit": 3
+        },
+        {
+            "x": 2,
+            "y": 14,
+            "facing": "South",
+            "team": "Player 1",
+            "unit": 3
+        }
     ]
 }

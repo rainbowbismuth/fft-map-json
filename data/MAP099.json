@@ -1,5 +1,6 @@
 {
     "gns": "MAP099.GNS",
+    "num": 99,
     "lower": [
         [
             {
@@ -5068,5 +5069,63 @@
         "Road",
         "Roof",
         "Stone floor"
+    ],
+    "starting_locations": [
+        {
+            "x": 0,
+            "y": 3,
+            "facing": "West",
+            "team": "Player 1",
+            "unit": 0
+        },
+        {
+            "x": 5,
+            "y": 15,
+            "facing": "South",
+            "team": "Player 2",
+            "unit": 0
+        },
+        {
+            "x": 7,
+            "y": 15,
+            "facing": "South",
+            "team": "Player 2",
+            "unit": 1
+        },
+        {
+            "x": 0,
+            "y": 2,
+            "facing": "West",
+            "team": "Player 1",
+            "unit": 1
+        },
+        {
+            "x": 1,
+            "y": 3,
+            "facing": "West",
+            "team": "Player 1",
+            "unit": 2
+        },
+        {
+            "x": 9,
+            "y": 15,
+            "facing": "South",
+            "team": "Player 2",
+            "unit": 2
+        },
+        {
+            "x": 11,
+            "y": 15,
+            "facing": "South",
+            "team": "Player 2",
+            "unit": 3
+        },
+        {
+            "x": 1,
+            "y": 2,
+            "facing": "West",
+            "team": "Player 1",
+            "unit": 3
+        }
     ]
 }

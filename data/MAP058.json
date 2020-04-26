@@ -1,5 +1,6 @@
 {
     "gns": "MAP058.GNS",
+    "num": 58,
     "lower": [
         [
             {
@@ -3181,5 +3182,63 @@
         "Natural Surface",
         "Roof",
         "Stairs"
+    ],
+    "starting_locations": [
+        {
+            "x": 0,
+            "y": 0,
+            "facing": "West",
+            "team": "Player 1",
+            "unit": 0
+        },
+        {
+            "x": 9,
+            "y": 0,
+            "facing": "East",
+            "team": "Player 2",
+            "unit": 0
+        },
+        {
+            "x": 9,
+            "y": 3,
+            "facing": "East",
+            "team": "Player 2",
+            "unit": 1
+        },
+        {
+            "x": 0,
+            "y": 3,
+            "facing": "West",
+            "team": "Player 1",
+            "unit": 1
+        },
+        {
+            "x": 0,
+            "y": 5,
+            "facing": "West",
+            "team": "Player 1",
+            "unit": 2
+        },
+        {
+            "x": 9,
+            "y": 5,
+            "facing": "East",
+            "team": "Player 2",
+            "unit": 2
+        },
+        {
+            "x": 9,
+            "y": 9,
+            "facing": "East",
+            "team": "Player 2",
+            "unit": 3
+        },
+        {
+            "x": 0,
+            "y": 9,
+            "facing": "West",
+            "team": "Player 1",
+            "unit": 3
+        }
     ]
 }

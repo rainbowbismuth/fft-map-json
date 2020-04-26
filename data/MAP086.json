@@ -1,5 +1,6 @@
 {
     "gns": "MAP086.GNS",
+    "num": 86,
     "lower": [
         [
             {
@@ -2122,5 +2123,63 @@
         "Grassland",
         "Natural Surface",
         "Rocky cliff"
+    ],
+    "starting_locations": [
+        {
+            "x": 1,
+            "y": 1,
+            "facing": "West",
+            "team": "Player 1",
+            "unit": 0
+        },
+        {
+            "x": 9,
+            "y": 7,
+            "facing": "East",
+            "team": "Player 2",
+            "unit": 0
+        },
+        {
+            "x": 9,
+            "y": 6,
+            "facing": "East",
+            "team": "Player 2",
+            "unit": 1
+        },
+        {
+            "x": 1,
+            "y": 0,
+            "facing": "West",
+            "team": "Player 1",
+            "unit": 1
+        },
+        {
+            "x": 0,
+            "y": 1,
+            "facing": "West",
+            "team": "Player 1",
+            "unit": 2
+        },
+        {
+            "x": 8,
+            "y": 7,
+            "facing": "East",
+            "team": "Player 2",
+            "unit": 2
+        },
+        {
+            "x": 8,
+            "y": 6,
+            "facing": "East",
+            "team": "Player 2",
+            "unit": 3
+        },
+        {
+            "x": 0,
+            "y": 0,
+            "facing": "West",
+            "team": "Player 1",
+            "unit": 3
+        }
     ]
 }

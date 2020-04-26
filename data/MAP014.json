@@ -1,5 +1,6 @@
 {
     "gns": "MAP014.GNS",
+    "num": 14,
     "lower": [
         [
             {
@@ -2389,5 +2390,63 @@
         "Natural Surface",
         "Rug",
         "Stone floor"
+    ],
+    "starting_locations": [
+        {
+            "x": 8,
+            "y": 4,
+            "facing": "East",
+            "team": "Player 1",
+            "unit": 0
+        },
+        {
+            "x": 1,
+            "y": 5,
+            "facing": "West",
+            "team": "Player 2",
+            "unit": 0
+        },
+        {
+            "x": 1,
+            "y": 3,
+            "facing": "West",
+            "team": "Player 2",
+            "unit": 1
+        },
+        {
+            "x": 9,
+            "y": 4,
+            "facing": "East",
+            "team": "Player 1",
+            "unit": 1
+        },
+        {
+            "x": 9,
+            "y": 5,
+            "facing": "East",
+            "team": "Player 1",
+            "unit": 2
+        },
+        {
+            "x": 2,
+            "y": 4,
+            "facing": "West",
+            "team": "Player 2",
+            "unit": 2
+        },
+        {
+            "x": 1,
+            "y": 4,
+            "facing": "West",
+            "team": "Player 2",
+            "unit": 3
+        },
+        {
+            "x": 9,
+            "y": 3,
+            "facing": "East",
+            "team": "Player 1",
+            "unit": 3
+        }
     ]
 }

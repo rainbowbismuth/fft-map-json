@@ -1,5 +1,6 @@
 {
     "gns": "MAP096.GNS",
+    "num": 96,
     "lower": [
         [
             {
@@ -1917,5 +1918,63 @@
         "Furniture",
         "Natural Surface",
         "Wooden floor"
+    ],
+    "starting_locations": [
+        {
+            "x": 1,
+            "y": 4,
+            "facing": "South",
+            "team": "Player 1",
+            "unit": 0
+        },
+        {
+            "x": 5,
+            "y": 1,
+            "facing": "North",
+            "team": "Player 2",
+            "unit": 0
+        },
+        {
+            "x": 6,
+            "y": 1,
+            "facing": "North",
+            "team": "Player 2",
+            "unit": 1
+        },
+        {
+            "x": 1,
+            "y": 5,
+            "facing": "West",
+            "team": "Player 1",
+            "unit": 1
+        },
+        {
+            "x": 1,
+            "y": 6,
+            "facing": "West",
+            "team": "Player 1",
+            "unit": 2
+        },
+        {
+            "x": 5,
+            "y": 0,
+            "facing": "North",
+            "team": "Player 2",
+            "unit": 2
+        },
+        {
+            "x": 6,
+            "y": 0,
+            "facing": "North",
+            "team": "Player 2",
+            "unit": 3
+        },
+        {
+            "x": 0,
+            "y": 6,
+            "facing": "West",
+            "team": "Player 1",
+            "unit": 3
+        }
     ]
 }

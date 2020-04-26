@@ -1,5 +1,6 @@
 {
     "gns": "MAP075.GNS",
+    "num": 75,
     "lower": [
         [
             {
@@ -3178,5 +3179,63 @@
         "Lava",
         "Lava rocks",
         "Natural Surface"
+    ],
+    "starting_locations": [
+        {
+            "x": 9,
+            "y": 2,
+            "facing": "North",
+            "team": "Player 1",
+            "unit": 0
+        },
+        {
+            "x": 0,
+            "y": 9,
+            "facing": "South",
+            "team": "Player 2",
+            "unit": 0
+        },
+        {
+            "x": 0,
+            "y": 10,
+            "facing": "South",
+            "team": "Player 2",
+            "unit": 1
+        },
+        {
+            "x": 9,
+            "y": 1,
+            "facing": "North",
+            "team": "Player 1",
+            "unit": 1
+        },
+        {
+            "x": 8,
+            "y": 2,
+            "facing": "North",
+            "team": "Player 1",
+            "unit": 2
+        },
+        {
+            "x": 1,
+            "y": 10,
+            "facing": "South",
+            "team": "Player 2",
+            "unit": 2
+        },
+        {
+            "x": 3,
+            "y": 10,
+            "facing": "South",
+            "team": "Player 2",
+            "unit": 3
+        },
+        {
+            "x": 8,
+            "y": 1,
+            "facing": "North",
+            "team": "Player 1",
+            "unit": 3
+        }
     ]
 }

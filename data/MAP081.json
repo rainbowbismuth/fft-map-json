@@ -1,5 +1,6 @@
 {
     "gns": "MAP081.GNS",
+    "num": 81,
     "lower": [
         [
             {
@@ -3785,5 +3786,63 @@
         "Stairs",
         "Stone floor",
         "Thicket"
+    ],
+    "starting_locations": [
+        {
+            "x": 1,
+            "y": 1,
+            "facing": "West",
+            "team": "Player 1",
+            "unit": 0
+        },
+        {
+            "x": 9,
+            "y": 11,
+            "facing": "East",
+            "team": "Player 2",
+            "unit": 0
+        },
+        {
+            "x": 9,
+            "y": 12,
+            "facing": "East",
+            "team": "Player 2",
+            "unit": 1
+        },
+        {
+            "x": 1,
+            "y": 0,
+            "facing": "West",
+            "team": "Player 1",
+            "unit": 1
+        },
+        {
+            "x": 0,
+            "y": 1,
+            "facing": "West",
+            "team": "Player 1",
+            "unit": 2
+        },
+        {
+            "x": 10,
+            "y": 11,
+            "facing": "East",
+            "team": "Player 2",
+            "unit": 2
+        },
+        {
+            "x": 10,
+            "y": 12,
+            "facing": "East",
+            "team": "Player 2",
+            "unit": 3
+        },
+        {
+            "x": 0,
+            "y": 0,
+            "facing": "West",
+            "team": "Player 1",
+            "unit": 3
+        }
     ]
 }

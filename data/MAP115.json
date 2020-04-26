@@ -1,5 +1,6 @@
 {
     "gns": "MAP115.GNS",
+    "num": 115,
     "lower": [
         [
             {
@@ -2344,5 +2345,63 @@
         "Rocky cliff",
         "Stone wall",
         "Wooden floor"
+    ],
+    "starting_locations": [
+        {
+            "x": 3,
+            "y": 0,
+            "facing": "West",
+            "team": "Player 1",
+            "unit": 0
+        },
+        {
+            "x": 6,
+            "y": 9,
+            "facing": "East",
+            "team": "Player 2",
+            "unit": 0
+        },
+        {
+            "x": 7,
+            "y": 9,
+            "facing": "East",
+            "team": "Player 2",
+            "unit": 1
+        },
+        {
+            "x": 2,
+            "y": 0,
+            "facing": "West",
+            "team": "Player 1",
+            "unit": 1
+        },
+        {
+            "x": 1,
+            "y": 0,
+            "facing": "West",
+            "team": "Player 1",
+            "unit": 2
+        },
+        {
+            "x": 6,
+            "y": 10,
+            "facing": "East",
+            "team": "Player 2",
+            "unit": 2
+        },
+        {
+            "x": 7,
+            "y": 10,
+            "facing": "East",
+            "team": "Player 2",
+            "unit": 3
+        },
+        {
+            "x": 0,
+            "y": 0,
+            "facing": "West",
+            "team": "Player 1",
+            "unit": 3
+        }
     ]
 }

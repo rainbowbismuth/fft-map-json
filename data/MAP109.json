@@ -1,5 +1,6 @@
 {
     "gns": "MAP109.GNS",
+    "num": 109,
     "lower": [
         [
             {
@@ -3556,5 +3557,63 @@
         "Natural Surface",
         "Rocky cliff",
         "Stalactite"
+    ],
+    "starting_locations": [
+        {
+            "x": 14,
+            "y": 2,
+            "facing": "East",
+            "team": "Player 1",
+            "unit": 0
+        },
+        {
+            "x": 0,
+            "y": 6,
+            "facing": "South",
+            "team": "Player 2",
+            "unit": 0
+        },
+        {
+            "x": 0,
+            "y": 7,
+            "facing": "South",
+            "team": "Player 2",
+            "unit": 1
+        },
+        {
+            "x": 14,
+            "y": 1,
+            "facing": "East",
+            "team": "Player 1",
+            "unit": 1
+        },
+        {
+            "x": 14,
+            "y": 0,
+            "facing": "East",
+            "team": "Player 1",
+            "unit": 2
+        },
+        {
+            "x": 0,
+            "y": 8,
+            "facing": "South",
+            "team": "Player 2",
+            "unit": 2
+        },
+        {
+            "x": 1,
+            "y": 8,
+            "facing": "South",
+            "team": "Player 2",
+            "unit": 3
+        },
+        {
+            "x": 13,
+            "y": 0,
+            "facing": "East",
+            "team": "Player 1",
+            "unit": 3
+        }
     ]
 }
