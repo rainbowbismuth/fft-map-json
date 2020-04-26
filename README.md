@@ -7,7 +7,7 @@ Thanks to the Ganesha FFT Map editor project for the code to parse these files.
 
 ## Format
 
-The top level object in each JSON file has six properties:
+The top level object in each JSON file has the following properties:
 
 - `gns` - The name of the GNS file.
 - `lower` - A list of lists containing tile objects. This is the 'lower level' of the map where most of the data is.
