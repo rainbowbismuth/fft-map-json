@@ -3454,56 +3454,64 @@
             "y": 1,
             "facing": "North",
             "team": "Player 1",
-            "unit": 0
+            "unit": 0,
+            "layer": false
         },
         {
             "x": 4,
             "y": 10,
             "facing": "South",
             "team": "Player 2",
-            "unit": 0
+            "unit": 0,
+            "layer": false
         },
         {
             "x": 5,
             "y": 10,
             "facing": "South",
             "team": "Player 2",
-            "unit": 1
+            "unit": 1,
+            "layer": false
         },
         {
             "x": 5,
             "y": 1,
             "facing": "North",
             "team": "Player 1",
-            "unit": 1
+            "unit": 1,
+            "layer": false
         },
         {
             "x": 4,
             "y": 0,
             "facing": "North",
             "team": "Player 1",
-            "unit": 2
+            "unit": 2,
+            "layer": false
         },
         {
             "x": 4,
             "y": 11,
             "facing": "South",
             "team": "Player 2",
-            "unit": 2
+            "unit": 2,
+            "layer": false
         },
         {
             "x": 5,
             "y": 11,
             "facing": "South",
             "team": "Player 2",
-            "unit": 3
+            "unit": 3,
+            "layer": false
         },
         {
             "x": 5,
             "y": 0,
             "facing": "North",
             "team": "Player 1",
-            "unit": 3
+            "unit": 3,
+            "layer": false
         }
     ]
 }

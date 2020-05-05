@@ -3789,60 +3789,68 @@
     ],
     "starting_locations": [
         {
-            "x": 1,
-            "y": 1,
-            "facing": "West",
-            "team": "Player 1",
-            "unit": 0
-        },
-        {
             "x": 9,
             "y": 11,
             "facing": "East",
-            "team": "Player 2",
-            "unit": 0
+            "team": "Player 1",
+            "unit": 0,
+            "layer": false
         },
         {
-            "x": 9,
-            "y": 12,
-            "facing": "East",
+            "x": 1,
+            "y": 1,
+            "facing": "West",
             "team": "Player 2",
-            "unit": 1
+            "unit": 0,
+            "layer": false
         },
         {
             "x": 1,
             "y": 0,
             "facing": "West",
-            "team": "Player 1",
-            "unit": 1
+            "team": "Player 2",
+            "unit": 1,
+            "layer": false
         },
         {
-            "x": 0,
-            "y": 1,
-            "facing": "West",
+            "x": 9,
+            "y": 12,
+            "facing": "East",
             "team": "Player 1",
-            "unit": 2
+            "unit": 1,
+            "layer": false
         },
         {
             "x": 10,
             "y": 11,
             "facing": "East",
-            "team": "Player 2",
-            "unit": 2
+            "team": "Player 1",
+            "unit": 2,
+            "layer": false
         },
         {
-            "x": 10,
-            "y": 12,
-            "facing": "East",
+            "x": 0,
+            "y": 1,
+            "facing": "West",
             "team": "Player 2",
-            "unit": 3
+            "unit": 2,
+            "layer": false
         },
         {
             "x": 0,
             "y": 0,
             "facing": "West",
+            "team": "Player 2",
+            "unit": 3,
+            "layer": false
+        },
+        {
+            "x": 10,
+            "y": 12,
+            "facing": "East",
             "team": "Player 1",
-            "unit": 3
+            "unit": 3,
+            "layer": false
         }
     ]
 }
