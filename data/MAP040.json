@@ -960,8 +960,8 @@
                 "height": 8,
                 "slope_type": "Flat 0",
                 "slope_type_numeric": 0,
-                "surface_type": "Roof",
-                "surface_type_numeric": 22,
+                "surface_type": "Machine",
+                "surface_type_numeric": 41,
                 "slope_height": 0
             },
             {
@@ -2621,6 +2621,7 @@
         "Box",
         "Chimney",
         "Grassland",
+        "Machine",
         "Natural Surface",
         "Roof",
         "Stone floor",

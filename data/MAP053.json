@@ -408,8 +408,8 @@
                 "height": 8,
                 "slope_type": "Flat 0",
                 "slope_type_numeric": 0,
-                "surface_type": "Stone floor",
-                "surface_type_numeric": 21,
+                "surface_type": "Book",
+                "surface_type_numeric": 27,
                 "slope_height": 0
             },
             {
@@ -421,8 +421,8 @@
                 "height": 8,
                 "slope_type": "Flat 0",
                 "slope_type_numeric": 0,
-                "surface_type": "Stone floor",
-                "surface_type_numeric": 21,
+                "surface_type": "Book",
+                "surface_type_numeric": 27,
                 "slope_height": 0
             },
             {
@@ -434,8 +434,8 @@
                 "height": 8,
                 "slope_type": "Flat 0",
                 "slope_type_numeric": 0,
-                "surface_type": "Stone floor",
-                "surface_type_numeric": 21,
+                "surface_type": "Book",
+                "surface_type_numeric": 27,
                 "slope_height": 0
             },
             {
@@ -527,8 +527,8 @@
                 "height": 8,
                 "slope_type": "Flat 0",
                 "slope_type_numeric": 0,
-                "surface_type": "Stone floor",
-                "surface_type_numeric": 21,
+                "surface_type": "Book",
+                "surface_type_numeric": 27,
                 "slope_height": 0
             },
             {
@@ -540,8 +540,8 @@
                 "height": 8,
                 "slope_type": "Flat 0",
                 "slope_type_numeric": 0,
-                "surface_type": "Stone floor",
-                "surface_type_numeric": 21,
+                "surface_type": "Machine",
+                "surface_type_numeric": 41,
                 "slope_height": 0
             },
             {
@@ -553,8 +553,8 @@
                 "height": 8,
                 "slope_type": "Flat 0",
                 "slope_type_numeric": 0,
-                "surface_type": "Stone floor",
-                "surface_type_numeric": 21,
+                "surface_type": "Book",
+                "surface_type_numeric": 27,
                 "slope_height": 0
             },
             {
@@ -646,8 +646,8 @@
                 "height": 8,
                 "slope_type": "Flat 0",
                 "slope_type_numeric": 0,
-                "surface_type": "Stone floor",
-                "surface_type_numeric": 21,
+                "surface_type": "Book",
+                "surface_type_numeric": 27,
                 "slope_height": 0
             },
             {
@@ -659,8 +659,8 @@
                 "height": 8,
                 "slope_type": "Flat 0",
                 "slope_type_numeric": 0,
-                "surface_type": "Stone floor",
-                "surface_type_numeric": 21,
+                "surface_type": "Book",
+                "surface_type_numeric": 27,
                 "slope_height": 0
             },
             {
@@ -672,8 +672,8 @@
                 "height": 8,
                 "slope_type": "Flat 0",
                 "slope_type_numeric": 0,
-                "surface_type": "Stone floor",
-                "surface_type_numeric": 21,
+                "surface_type": "Book",
+                "surface_type_numeric": 27,
                 "slope_height": 0
             },
             {
@@ -2150,7 +2150,9 @@
     "width": 9,
     "height": 9,
     "surface_types": [
+        "Book",
         "Darkness",
+        "Machine",
         "Natural Surface",
         "Stone floor"
     ],
