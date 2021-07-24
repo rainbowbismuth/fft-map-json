@@ -3481,7 +3481,7 @@
         },
         {
             "x": 8,
-            "y": 7,
+            "y": 6,
             "facing": "South",
             "team": "Player 1",
             "unit": 2,
@@ -3505,7 +3505,7 @@
         },
         {
             "x": 9,
-            "y": 7,
+            "y": 6,
             "facing": "South",
             "team": "Player 1",
             "unit": 3,

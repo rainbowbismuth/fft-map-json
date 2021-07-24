@@ -115,13 +115,13 @@
                 "x": 0,
                 "y": 2,
                 "no_cursor": false,
-                "no_walk": true,
+                "no_walk": false,
                 "depth": 0,
                 "height": 9,
                 "slope_type": "Flat 0",
                 "slope_type_numeric": 0,
-                "surface_type": "Obstacle",
-                "surface_type_numeric": 28,
+                "surface_type": "Machine",
+                "surface_type_numeric": 41,
                 "slope_height": 0
             },
             {
@@ -169,13 +169,13 @@
                 "x": 0,
                 "y": 3,
                 "no_cursor": false,
-                "no_walk": true,
+                "no_walk": false,
                 "depth": 0,
                 "height": 9,
                 "slope_type": "Incline N",
                 "slope_type_numeric": 133,
-                "surface_type": "Obstacle",
-                "surface_type_numeric": 28,
+                "surface_type": "Machine",
+                "surface_type_numeric": 41,
                 "slope_height": 1
             },
             {
@@ -223,13 +223,13 @@
                 "x": 0,
                 "y": 4,
                 "no_cursor": false,
-                "no_walk": true,
+                "no_walk": false,
                 "depth": 0,
                 "height": 10,
                 "slope_type": "Flat 0",
                 "slope_type_numeric": 0,
-                "surface_type": "Obstacle",
-                "surface_type_numeric": 28,
+                "surface_type": "Machine",
+                "surface_type_numeric": 41,
                 "slope_height": 0
             },
             {
@@ -262,13 +262,13 @@
                 "x": 3,
                 "y": 4,
                 "no_cursor": false,
-                "no_walk": true,
+                "no_walk": false,
                 "depth": 0,
                 "height": 3,
                 "slope_type": "Incline N",
                 "slope_type_numeric": 133,
-                "surface_type": "Obstacle",
-                "surface_type_numeric": 28,
+                "surface_type": "Machine",
+                "surface_type_numeric": 41,
                 "slope_height": 1
             }
         ],
@@ -277,13 +277,13 @@
                 "x": 0,
                 "y": 5,
                 "no_cursor": false,
-                "no_walk": true,
+                "no_walk": false,
                 "depth": 0,
                 "height": 9,
                 "slope_type": "Incline N",
                 "slope_type_numeric": 133,
-                "surface_type": "Obstacle",
-                "surface_type_numeric": 28,
+                "surface_type": "Machine",
+                "surface_type_numeric": 41,
                 "slope_height": 1
             },
             {
@@ -316,13 +316,13 @@
                 "x": 3,
                 "y": 5,
                 "no_cursor": false,
-                "no_walk": true,
+                "no_walk": false,
                 "depth": 0,
                 "height": 4,
                 "slope_type": "Flat 0",
                 "slope_type_numeric": 0,
-                "surface_type": "Obstacle",
-                "surface_type_numeric": 28,
+                "surface_type": "Machine",
+                "surface_type_numeric": 41,
                 "slope_height": 0
             }
         ],
@@ -331,13 +331,13 @@
                 "x": 0,
                 "y": 6,
                 "no_cursor": false,
-                "no_walk": true,
+                "no_walk": false,
                 "depth": 0,
                 "height": 8,
                 "slope_type": "Incline S",
                 "slope_type_numeric": 37,
-                "surface_type": "Obstacle",
-                "surface_type_numeric": 28,
+                "surface_type": "Machine",
+                "surface_type_numeric": 41,
                 "slope_height": 2
             },
             {
@@ -370,13 +370,13 @@
                 "x": 3,
                 "y": 6,
                 "no_cursor": false,
-                "no_walk": true,
+                "no_walk": false,
                 "depth": 0,
                 "height": 3,
                 "slope_type": "Incline S",
                 "slope_type_numeric": 37,
-                "surface_type": "Obstacle",
-                "surface_type_numeric": 28,
+                "surface_type": "Machine",
+                "surface_type_numeric": 41,
                 "slope_height": 1
             }
         ],
@@ -1953,6 +1953,7 @@
     "height": 18,
     "surface_types": [
         "Box",
+        "Machine",
         "Natural Surface",
         "Obstacle",
         "Stone floor",
@@ -1961,64 +1962,64 @@
     "starting_locations": [
         {
             "x": 0,
-            "y": 16,
-            "facing": "South",
+            "y": 0,
+            "facing": "North",
             "team": "Player 1",
             "unit": 0,
             "layer": false
         },
         {
             "x": 0,
-            "y": 0,
-            "facing": "North",
+            "y": 16,
+            "facing": "South",
             "team": "Player 2",
             "unit": 0,
             "layer": false
         },
         {
             "x": 1,
-            "y": 0,
-            "facing": "North",
+            "y": 16,
+            "facing": "South",
             "team": "Player 2",
             "unit": 1,
             "layer": false
         },
         {
             "x": 1,
-            "y": 16,
-            "facing": "South",
+            "y": 0,
+            "facing": "North",
             "team": "Player 1",
             "unit": 1,
             "layer": false
         },
         {
             "x": 3,
-            "y": 17,
-            "facing": "South",
+            "y": 0,
+            "facing": "North",
             "team": "Player 1",
             "unit": 2,
             "layer": false
         },
         {
             "x": 3,
-            "y": 0,
-            "facing": "North",
+            "y": 17,
+            "facing": "South",
             "team": "Player 2",
             "unit": 2,
-            "layer": false
-        },
-        {
-            "x": 2,
-            "y": 0,
-            "facing": "North",
-            "team": "Player 2",
-            "unit": 3,
             "layer": false
         },
         {
             "x": 3,
             "y": 16,
             "facing": "South",
+            "team": "Player 2",
+            "unit": 3,
+            "layer": false
+        },
+        {
+            "x": 2,
+            "y": 0,
+            "facing": "North",
             "team": "Player 1",
             "unit": 3,
             "layer": false

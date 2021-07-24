@@ -585,8 +585,8 @@
                 "height": 0,
                 "slope_type": "Flat 0",
                 "slope_type_numeric": 0,
-                "surface_type": "Waterway",
-                "surface_type_numeric": 14,
+                "surface_type": "Marsh",
+                "surface_type_numeric": 10,
                 "slope_height": 0
             },
             {
@@ -624,8 +624,8 @@
                 "height": 0,
                 "slope_type": "Flat 0",
                 "slope_type_numeric": 0,
-                "surface_type": "Waterway",
-                "surface_type_numeric": 14,
+                "surface_type": "Marsh",
+                "surface_type_numeric": 10,
                 "slope_height": 0
             },
             {
@@ -745,8 +745,8 @@
                 "height": 0,
                 "slope_type": "Flat 0",
                 "slope_type_numeric": 0,
-                "surface_type": "Waterway",
-                "surface_type_numeric": 14,
+                "surface_type": "Marsh",
+                "surface_type_numeric": 10,
                 "slope_height": 0
             },
             {
@@ -784,8 +784,8 @@
                 "height": 0,
                 "slope_type": "Flat 0",
                 "slope_type_numeric": 0,
-                "surface_type": "Waterway",
-                "surface_type_numeric": 14,
+                "surface_type": "Marsh",
+                "surface_type_numeric": 10,
                 "slope_height": 0
             },
             {
@@ -2571,6 +2571,7 @@
         "Bridge",
         "Coffin",
         "Cross section",
+        "Marsh",
         "Natural Surface",
         "Stone floor",
         "Tombstone",

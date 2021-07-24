@@ -278,8 +278,8 @@
                 "height": 8,
                 "slope_type": "Flat 0",
                 "slope_type_numeric": 0,
-                "surface_type": "Box",
-                "surface_type_numeric": 31,
+                "surface_type": "Salt",
+                "surface_type_numeric": 26,
                 "slope_height": 0
             },
             {
@@ -412,8 +412,8 @@
                 "height": 14,
                 "slope_type": "Flat 0",
                 "slope_type_numeric": 0,
-                "surface_type": "Stone floor",
-                "surface_type_numeric": 21,
+                "surface_type": "Roof",
+                "surface_type_numeric": 22,
                 "slope_height": 0
             },
             {
@@ -425,8 +425,8 @@
                 "height": 14,
                 "slope_type": "Flat 0",
                 "slope_type_numeric": 0,
-                "surface_type": "Stone floor",
-                "surface_type_numeric": 21,
+                "surface_type": "Roof",
+                "surface_type_numeric": 22,
                 "slope_height": 0
             },
             {
@@ -438,8 +438,8 @@
                 "height": 15,
                 "slope_type": "Flat 0",
                 "slope_type_numeric": 0,
-                "surface_type": "Stone floor",
-                "surface_type_numeric": 21,
+                "surface_type": "Roof",
+                "surface_type_numeric": 22,
                 "slope_height": 0
             },
             {
@@ -451,8 +451,8 @@
                 "height": 14,
                 "slope_type": "Flat 0",
                 "slope_type_numeric": 0,
-                "surface_type": "Stone floor",
-                "surface_type_numeric": 21,
+                "surface_type": "Roof",
+                "surface_type_numeric": 22,
                 "slope_height": 0
             },
             {
@@ -611,8 +611,8 @@
                 "height": 14,
                 "slope_type": "Flat 0",
                 "slope_type_numeric": 0,
-                "surface_type": "Stone floor",
-                "surface_type_numeric": 21,
+                "surface_type": "Roof",
+                "surface_type_numeric": 22,
                 "slope_height": 0
             },
             {
@@ -1173,8 +1173,8 @@
                 "height": 14,
                 "slope_type": "Flat 0",
                 "slope_type_numeric": 0,
-                "surface_type": "Stone floor",
-                "surface_type_numeric": 21,
+                "surface_type": "Roof",
+                "surface_type_numeric": 22,
                 "slope_height": 0
             },
             {
@@ -1291,6 +1291,8 @@
         "Box",
         "Furniture",
         "Natural Surface",
+        "Roof",
+        "Salt",
         "Stone floor",
         "Wooden floor"
     ],

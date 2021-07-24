@@ -3848,8 +3848,8 @@
             "layer": false
         },
         {
-            "x": 10,
-            "y": 4,
+            "x": 11,
+            "y": 6,
             "facing": "East",
             "team": "Player 2",
             "unit": 2,

@@ -579,8 +579,8 @@
                 "height": 0,
                 "slope_type": "Flat 0",
                 "slope_type_numeric": 0,
-                "surface_type": "Stone floor",
-                "surface_type_numeric": 21,
+                "surface_type": "Furniture",
+                "surface_type_numeric": 38,
                 "slope_height": 0
             },
             {

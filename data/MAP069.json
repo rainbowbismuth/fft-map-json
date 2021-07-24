@@ -1012,8 +1012,8 @@
                 "height": 6,
                 "slope_type": "Flat 0",
                 "slope_type_numeric": 0,
-                "surface_type": "Wooden floor",
-                "surface_type_numeric": 20,
+                "surface_type": "Snow",
+                "surface_type_numeric": 5,
                 "slope_height": 0
             },
             {
@@ -2910,8 +2910,8 @@
                 "height": 12,
                 "slope_type": "Flat 0",
                 "slope_type_numeric": 0,
-                "surface_type": "Cross section",
-                "surface_type_numeric": 63,
+                "surface_type": "Natural Surface",
+                "surface_type_numeric": 0,
                 "slope_height": 0
             },
             {
@@ -3802,6 +3802,7 @@
     "surface_types": [
         "Cross section",
         "Natural Surface",
+        "Snow",
         "Stone floor",
         "Stone wall",
         "Wasteland",

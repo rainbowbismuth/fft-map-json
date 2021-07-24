@@ -4040,7 +4040,7 @@
         },
         {
             "x": 0,
-            "y": 3,
+            "y": 5,
             "facing": "West",
             "team": "Player 2",
             "unit": 0,
@@ -4048,7 +4048,7 @@
         },
         {
             "x": 0,
-            "y": 5,
+            "y": 3,
             "facing": "West",
             "team": "Player 2",
             "unit": 1,
@@ -4072,7 +4072,7 @@
         },
         {
             "x": 1,
-            "y": 2,
+            "y": 6,
             "facing": "West",
             "team": "Player 2",
             "unit": 2,
@@ -4080,7 +4080,7 @@
         },
         {
             "x": 1,
-            "y": 6,
+            "y": 2,
             "facing": "West",
             "team": "Player 2",
             "unit": 3,

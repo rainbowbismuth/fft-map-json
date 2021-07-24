@@ -237,8 +237,8 @@
                 "height": 7,
                 "slope_type": "Flat 0",
                 "slope_type_numeric": 0,
-                "surface_type": "Stone floor",
-                "surface_type_numeric": 21,
+                "surface_type": "Roof",
+                "surface_type_numeric": 22,
                 "slope_height": 0
             },
             {
@@ -289,8 +289,8 @@
                 "height": 7,
                 "slope_type": "Flat 0",
                 "slope_type_numeric": 0,
-                "surface_type": "Stone floor",
-                "surface_type_numeric": 21,
+                "surface_type": "Roof",
+                "surface_type_numeric": 22,
                 "slope_height": 0
             },
             {
@@ -687,8 +687,8 @@
                 "height": 0,
                 "slope_type": "Flat 0",
                 "slope_type_numeric": 0,
-                "surface_type": "Stone floor",
-                "surface_type_numeric": 21,
+                "surface_type": "Snow",
+                "surface_type_numeric": 5,
                 "slope_height": 0
             },
             {
@@ -767,8 +767,8 @@
                 "height": 12,
                 "slope_type": "Flat 0",
                 "slope_type_numeric": 0,
-                "surface_type": "Stone floor",
-                "surface_type_numeric": 21,
+                "surface_type": "Coffin",
+                "surface_type_numeric": 46,
                 "slope_height": 0
             },
             {
@@ -793,8 +793,8 @@
                 "height": 0,
                 "slope_type": "Flat 0",
                 "slope_type_numeric": 0,
-                "surface_type": "Stone floor",
-                "surface_type_numeric": 21,
+                "surface_type": "Snow",
+                "surface_type_numeric": 5,
                 "slope_height": 0
             },
             {
@@ -819,8 +819,8 @@
                 "height": 12,
                 "slope_type": "Flat 0",
                 "slope_type_numeric": 0,
-                "surface_type": "Stone floor",
-                "surface_type_numeric": 21,
+                "surface_type": "Coffin",
+                "surface_type_numeric": 46,
                 "slope_height": 0
             },
             {
@@ -873,8 +873,8 @@
                 "height": 12,
                 "slope_type": "Flat 0",
                 "slope_type_numeric": 0,
-                "surface_type": "Stone floor",
-                "surface_type_numeric": 21,
+                "surface_type": "Coffin",
+                "surface_type_numeric": 46,
                 "slope_height": 0
             },
             {
@@ -899,8 +899,8 @@
                 "height": 0,
                 "slope_type": "Flat 0",
                 "slope_type_numeric": 0,
-                "surface_type": "Stone floor",
-                "surface_type_numeric": 21,
+                "surface_type": "Snow",
+                "surface_type_numeric": 5,
                 "slope_height": 0
             },
             {
@@ -925,8 +925,8 @@
                 "height": 12,
                 "slope_type": "Flat 0",
                 "slope_type_numeric": 0,
-                "surface_type": "Stone floor",
-                "surface_type_numeric": 21,
+                "surface_type": "Coffin",
+                "surface_type_numeric": 46,
                 "slope_height": 0
             },
             {
@@ -2067,8 +2067,8 @@
                 "height": 12,
                 "slope_type": "Flat 0",
                 "slope_type_numeric": 0,
-                "surface_type": "Stone floor",
-                "surface_type_numeric": 21,
+                "surface_type": "Coffin",
+                "surface_type_numeric": 46,
                 "slope_height": 0
             },
             {
@@ -2173,8 +2173,8 @@
                 "height": 12,
                 "slope_type": "Flat 0",
                 "slope_type_numeric": 0,
-                "surface_type": "Stone floor",
-                "surface_type_numeric": 21,
+                "surface_type": "Coffin",
+                "surface_type_numeric": 46,
                 "slope_height": 0
             },
             {
@@ -2552,10 +2552,13 @@
     "width": 8,
     "height": 12,
     "surface_types": [
+        "Coffin",
         "Grassland",
         "Natural Surface",
         "Rocky cliff",
+        "Roof",
         "Sand area",
+        "Snow",
         "Stairs",
         "Stone floor"
     ],

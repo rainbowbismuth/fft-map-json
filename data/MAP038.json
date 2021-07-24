@@ -2350,8 +2350,8 @@
     ],
     "starting_locations": [
         {
-            "x": 2,
-            "y": 1,
+            "x": 5,
+            "y": 0,
             "facing": "North",
             "team": "Player 1",
             "unit": 0,
@@ -2375,14 +2375,14 @@
         },
         {
             "x": 3,
-            "y": 1,
+            "y": 0,
             "facing": "North",
             "team": "Player 1",
             "unit": 1,
             "layer": false
         },
         {
-            "x": 3,
+            "x": 2,
             "y": 0,
             "facing": "North",
             "team": "Player 1",
