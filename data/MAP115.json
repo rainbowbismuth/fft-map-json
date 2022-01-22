@@ -2348,65 +2348,65 @@
     ],
     "starting_locations": [
         {
-            "x": 6,
-            "y": 9,
-            "facing": "East",
+            "x": 3,
+            "y": 0,
+            "facing": "West",
             "team": "Player 1",
             "unit": 0,
             "layer": false
         },
         {
-            "x": 3,
-            "y": 0,
-            "facing": "West",
+            "x": 6,
+            "y": 9,
+            "facing": "East",
             "team": "Player 2",
             "unit": 0,
+            "layer": false
+        },
+        {
+            "x": 7,
+            "y": 9,
+            "facing": "East",
+            "team": "Player 2",
+            "unit": 1,
             "layer": false
         },
         {
             "x": 2,
             "y": 0,
             "facing": "West",
-            "team": "Player 2",
-            "unit": 1,
-            "layer": false
-        },
-        {
-            "x": 7,
-            "y": 9,
-            "facing": "East",
             "team": "Player 1",
             "unit": 1,
-            "layer": false
-        },
-        {
-            "x": 6,
-            "y": 10,
-            "facing": "East",
-            "team": "Player 1",
-            "unit": 2,
             "layer": false
         },
         {
             "x": 1,
             "y": 0,
             "facing": "West",
-            "team": "Player 2",
+            "team": "Player 1",
             "unit": 2,
             "layer": false
         },
         {
-            "x": 0,
-            "y": 0,
-            "facing": "West",
+            "x": 6,
+            "y": 10,
+            "facing": "East",
             "team": "Player 2",
-            "unit": 3,
+            "unit": 2,
             "layer": false
         },
         {
             "x": 7,
             "y": 10,
             "facing": "East",
+            "team": "Player 2",
+            "unit": 3,
+            "layer": false
+        },
+        {
+            "x": 0,
+            "y": 0,
+            "facing": "West",
             "team": "Player 1",
             "unit": 3,
             "layer": false
